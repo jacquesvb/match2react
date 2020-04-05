@@ -1,0 +1,98 @@
+[
+  {
+    "image": "/assets/StarTrek/Barclay.png",
+    "label": "Barclay"
+  },
+  {
+    "image": "/assets/StarTrek/Bashir.png",
+    "label": "Bashir"
+  },
+  {
+    "image": "/assets/StarTrek/Beverly.png",
+    "label": "Beverly"
+  },
+  {
+    "image": "/assets/StarTrek/Chekov.png",
+    "label": "Chekov"
+  },
+  {
+    "image": "../assets/StarTrek/Data.png",
+    "label": "Data"
+  },
+  {
+    "image": "/assets/StarTrek/Dax.png",
+    "label": "Dax"
+  },
+  {
+    "image": "/assets/StarTrek/Kira.png",
+    "label": "Kira"
+  },
+  {
+    "image": "/assets/StarTrek/Kirk.png",
+    "label": "Kirk"
+  },
+  {
+    "image": "/assets/StarTrek/LaForge.png",
+    "label": "LaForge"
+  },
+  {
+    "image": "/assets/StarTrek/McCoy.png",
+    "label": "McCoy"
+  },
+  {
+    "image": "../assets/StarTrek/O'Brien.png",
+    "label": "O'Brien"
+  },
+  {
+    "image": "/assets/StarTrek/Odo.png",
+    "label": "Odo"
+  },
+  {
+    "image": "/assets/StarTrek/Picard.png",
+    "label": "Picard"
+  },
+  {
+    "image": "/assets/StarTrek/Q.png",
+    "label": "Q"
+  },
+  {
+    "image": "/assets/StarTrek/Quark.png",
+    "label": "Quark"
+  },
+  {
+    "image": "/assets/StarTrek/Riker.png",
+    "label": "Riker"
+  },
+  {
+    "image": "/assets/StarTrek/Scotty.png",
+    "label": "Scotty"
+  },
+  {
+    "image": "/assets/StarTrek/Sisco.png",
+    "label": "Sisco"
+  },
+  {
+    "image": "/assets/StarTrek/Spock.png",
+    "label": "Spock"
+  },
+  {
+    "image": "/assets/StarTrek/Sulu.png",
+    "label": "Sulu"
+  },
+  {
+    "image": "/assets/StarTrek/Troi.png",
+    "label": "Troi"
+  },
+  {
+    "image": "/assets/StarTrek/Uhura.png",
+    "label": "Uhura"
+  },
+  {
+    "image": "/assets/StarTrek/Wesley.png",
+    "label": "Wesley"
+  },
+  {
+    "image": "/assets/StarTrek/Worf.png",
+    "label": "Worf"
+  }
+]
